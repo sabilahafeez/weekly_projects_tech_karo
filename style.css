@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+}
+
+nav{
+    float: left;
+    width: 20%;
+    border-right: 2px solid grey;
+    margin: auto 0  auto 10px ;
+}
+nav header{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: black;
+
+}
+main{
+    float: right;
+    width: 75%;
+}
+main header{
+    font-weight: bold;
+    font-size: 25px;
+}
